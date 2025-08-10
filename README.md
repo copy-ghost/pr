@@ -1,0 +1,2 @@
+# pr
+my major
